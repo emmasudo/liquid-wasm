@@ -1,0 +1,4 @@
+(executable
+ (public_name liquid-wasm)
+ (name main)
+ (libraries liquid_wasm))
